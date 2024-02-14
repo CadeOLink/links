@@ -33,10 +33,12 @@ main{
 }
 h1{
    color: #FAFAFA;
+   font-family: "Lexend Deca", sans-serif;
 }
 p{
    color: #DFDFDF;
    padding-bottom: 1.2rem;
+   font-family: "Lexend Deca", sans-serif;
 }
 a{
    background-color: #4D4D4D;
@@ -48,6 +50,7 @@ a{
    font-weight: bold;
    text-decoration: none;
    text-align:center;
+   font-family: "Lexend Deca", sans-serif;
 }
 div.as{
    width: 100%;
